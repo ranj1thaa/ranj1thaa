@@ -1,179 +1,107 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ranjitha R | Resume</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f4f6f8;
-      color: #333;
-    }
-    .container {
-      max-width: 900px;
-      margin: 30px auto;
-      background: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
-    h1 {
-      margin-bottom: 5px;
-    }
-    h2 {
-      border-bottom: 2px solid #eee;
-      padding-bottom: 5px;
-      margin-top: 30px;
-    }
-    .contact a {
-      margin-right: 15px;
-      text-decoration: none;
-      color: #0073b1;
-    }
-    .section {
-      margin-top: 20px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .tag {
-      display: inline-block;
-      background: #eef;
-      padding: 5px 10px;
-      margin: 5px 5px 0 0;
-      border-radius: 5px;
-      font-size: 14px;
-    }
-    .project {
-      margin-bottom: 20px;
-    }
-    .project a {
-      text-decoration: none;
-      color: #0073b1;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
+<h1>👩‍💻 Ranjitha R</h1>
 
-<div class="container">
+<p>
+📧 r.17ranjitha@gmail.com <br>
+🌐 <a href="#">Portfolio</a> |
+💼 <a href="#">LinkedIn</a> |
+🐙 <a href="#">GitHub</a>
+</p>
 
-  <h1>Ranjitha R</h1>
-  <p>Associate Software Engineer</p>
+<hr>
 
-  <div class="contact">
-    <p>
-      📧 r.17ranjitha@gmail.com <br>
-      🌐 <a href="#">Portfolio</a>
-      💼 <a href="#">LinkedIn</a>
-      🐙 <a href="#">GitHub</a>
-    </p>
-  </div>
+<h2>🚀 Professional Summary</h2>
+<p>
+Associate Software Engineer skilled in Python, AI, and full-stack development.
+Experience building scalable, secure, and production-ready web applications,
+including authentication systems and analytics platforms.
+</p>
 
-  <div class="section">
-    <h2>Professional Summary</h2>
-    <p>
-      Associate Software Engineer skilled in Python, AI, and full-stack development.
-      Experience building scalable web applications, authentication systems, and analytics platforms.
-    </p>
-  </div>
+<hr>
 
-  <div class="section">
-    <h2>Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
-    <h3>Frontend</h3>
-    <div>
-      <span class="tag">HTML</span>
-      <span class="tag">CSS</span>
-      <span class="tag">JavaScript</span>
-      <span class="tag">React.js</span>
-      <span class="tag">Tailwind CSS</span>
-      <span class="tag">Bootstrap</span>
-    </div>
+<h3>Frontend</h3>
+<p>
+HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
+</p>
 
-    <h3>Backend</h3>
-    <div>
-      <span class="tag">Python</span>
-      <span class="tag">Node.js</span>
-      <span class="tag">Express.js</span>
-      <span class="tag">REST APIs</span>
-    </div>
+<h3>Backend</h3>
+<p>
+Python | Node.js | Express.js | REST APIs
+</p>
 
-    <h3>Database</h3>
-    <div>
-      <span class="tag">MongoDB</span>
-      <span class="tag">Firebase</span>
-      <span class="tag">SQL</span>
-      <span class="tag">Redis</span>
-    </div>
+<h3>Database & Storage</h3>
+<p>
+MongoDB | Firebase | SQL | Redis
+</p>
 
-    <h3>Tools</h3>
-    <div>
-      <span class="tag">Docker</span>
-      <span class="tag">Git</span>
-      <span class="tag">GitHub Actions</span>
-    </div>
-  </div>
+<h3>DevOps & Tools</h3>
+<p>
+Docker | Git | GitHub Actions
+</p>
 
-  <div class="section">
-    <h2>Projects</h2>
+<hr>
 
-    <div class="project">
-      <h3>BlinkLink – URL Shortener</h3>
-      <ul>
-        <li>JWT Authentication</li>
-        <li>Custom Short Codes</li>
-        <li>QR Code Generation</li>
-        <li>Redis Caching</li>
-        <li>Analytics Dashboard</li>
-      </ul>
-      <a href="#">GitHub</a>
-    </div>
+<h2>🔥 Projects</h2>
 
-    <div class="project">
-      <h3>QuietCloud – Journaling Platform</h3>
-      <ul>
-        <li>Secure Firebase-based journaling</li>
-        <li>Public/Private entries</li>
-      </ul>
-      <a href="#">Live</a> |
-      <a href="#">GitHub</a>
-    </div>
+<h3>🔗 BlinkLink – URL Shortener & Analytics Platform</h3>
+<ul>
+<li>JWT Authentication</li>
+<li>Custom Short Codes</li>
+<li>QR Code Generation</li>
+<li>Redis Caching</li>
+<li>Analytics Dashboard</li>
+</ul>
+<p>
+<a href="#">GitHub</a>
+</p>
 
-    <div class="project">
-      <h3>CiraSari – E-commerce Platform</h3>
-      <ul>
-        <li>JWT Authentication</li>
-        <li>Stripe Payments</li>
-        <li>Cloudinary Uploads</li>
-        <li>Role-based Dashboards</li>
-      </ul>
-      <a href="#">Live</a> |
-      <a href="#">GitHub</a>
-    </div>
+<h3>🌿 QuietCloud – Secure Journaling Platform</h3>
+<ul>
+<li>Firebase-based secure journaling</li>
+<li>Public & Private entries</li>
+</ul>
+<p>
+<a href="#">Live Project</a> |
+<a href="#">GitHub</a>
+</p>
 
-  </div>
+<h3>🛍 CiraSari – MERN E-commerce Platform</h3>
+<ul>
+<li>JWT Authentication</li>
+<li>Stripe Payment Integration</li>
+<li>Cloudinary Image Upload</li>
+<li>Role-based Dashboards</li>
+</ul>
+<p>
+<a href="#">Live</a> |
+<a href="#">GitHub</a>
+</p>
 
-  <div class="section">
-    <h2>Education</h2>
-    <p><strong>MCA</strong> – VIT Bhopal University (2023 - 2025)</p>
-    <p><strong>BSc</strong> – Government First Grade College (2020 - 2023)</p>
-  </div>
+<hr>
 
-  <div class="section">
-    <h2>Strengths</h2>
-    <ul>
-      <li>Full Stack Development</li>
-      <li>Secure Authentication Systems</li>
-      <li>Analytics Dashboard Development</li>
-      <li>DevOps & Deployment</li>
-      <li>Modern UI/UX Design</li>
-    </ul>
-  </div>
+<h2>🎓 Education</h2>
+<p>
+<strong>MCA</strong> – VIT Bhopal University (2023 - 2025) <br>
+<strong>BSc</strong> – Government First Grade College (2020 - 2023)
+</p>
 
-</div>
+<hr>
 
-</body>
-</html>
+<h2>⭐ Strengths</h2>
+<ul>
+<li>Full Stack Development</li>
+<li>Secure Authentication Systems</li>
+<li>Analytics Dashboard Development</li>
+<li>DevOps & Deployment</li>
+<li>Modern UI/UX Design</li>
+</ul>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+<p>
+<a href="#">GitHub</a> |
+<a href="#">LinkedIn</a> |
+<a href="#">Portfolio</a>
+</p>
