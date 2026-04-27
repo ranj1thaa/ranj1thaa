@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1>👩‍💻 Ranjitha R</h1>
 
 <p>
@@ -8,100 +10,114 @@
 </p>
 
 <hr>
+<h2>💼 Experience</h2>
+<h3>Associate Software Engineer – Novel Office</h3>
+<p>
+Working on Python, AI, and Frappe-based applications, along with frontend technologies like HTML, CSS, and JavaScript.
+</p>
+<hr>
+
+---
 
 <h2>🚀 Professional Summary</h2>
 <p>
-Associate Software Engineer skilled in Python, AI, and full-stack development.
-Experience building scalable, secure, and production-ready web applications,
-including authentication systems and analytics platforms.
+MERN Stack Developer experienced in building secure, scalable, and production-ready web applications.
+Strong knowledge of authentication systems, REST APIs, analytics dashboards, and DevOps workflows.
 </p>
-
 <hr>
 
-<h2>🛠 Tech Stack</h2>
+</div>
 
+---
+
+<h2>🛠 Tech Stack</h2>
 <h3>Frontend</h3>
 <p>
-HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
+React.js | Tailwind CSS | Bootstrap | GSAP | Swiper | Chart.js | HTML | CSS | JavaScript
 </p>
-
 <h3>Backend</h3>
 <p>
-Python | Node.js | Express.js | REST APIs
+Node.js | Express.js | JWT | Bcrypt | REST APIs | Python
 </p>
-
 <h3>Database & Storage</h3>
 <p>
 MongoDB | Firebase | SQL | Redis
 </p>
-
 <h3>DevOps & Tools</h3>
 <p>
-Docker | Git | GitHub Actions
+Docker | Git | GitHub Actions | Stripe | Cloudinary | Axios
 </p>
-
 <hr>
 
-<h2>🔥 Projects</h2>
+---
 
-<h3>🔗 BlinkLink – URL Shortener & Analytics Platform</h3>
-<ul>
-<li>JWT Authentication</li>
-<li>Custom Short Codes</li>
-<li>QR Code Generation</li>
-<li>Redis Caching</li>
-<li>Analytics Dashboard</li>
-</ul>
+## 🔥 Projects
+
+---
+
+### 🔗 BlinkLink – URL Shortener & Analytics Platform
+
 <p>
-<a href="#">GitHub</a>
+Production-level URL shortening platform with authentication, analytics tracking, and caching.
 </p>
 
-<h3>🌿 QuietCloud – Secure Journaling Platform</h3>
-<ul>
-<li>Firebase-based secure journaling</li>
-<li>Public & Private entries</li>
-</ul>
+✅ JWT Authentication  
+✅ Custom Short Codes  
+✅ QR Code Generation  
+✅ Redis Caching  
+✅ Analytics Dashboard  
+
+🔗 <a href="https://github.com/ranj1thaa/BlinkLink">GitHub</a>
+---
+
+### 🌿 QuietCloud – Secure Journaling Platform
+
 <p>
-<a href="#">Live Project</a> |
-<a href="#">GitHub</a>
+Firebase-based secure journaling platform with public/private entries and animations.
 </p>
 
-<h3>🛍 CiraSari – MERN E-commerce Platform</h3>
-<ul>
-<li>JWT Authentication</li>
-<li>Stripe Payment Integration</li>
-<li>Cloudinary Image Upload</li>
-<li>Role-based Dashboards</li>
-</ul>
+🔗 <a href="https://quiet-cloud-i7nn.vercel.app/">Live Project</a>  
+🔗 <a href="https://github.com/ranj1thaa/QuietCloud">GitHub</a>
+
+---
+
+### 🛍 CiraSari – MERN E-commerce Platform
+
 <p>
-<a href="#">Live</a> |
-<a href="#">GitHub</a>
+Full-stack e-commerce platform connecting customers directly with sellers.
 </p>
 
-<hr>
+✅ JWT Authentication  
+✅ Stripe Payment Integration  
+✅ Cloudinary Image Upload  
+✅ Role-based Dashboards  
 
-<h2>🎓 Education</h2>
-<p>
-<strong>MCA</strong> – VIT Bhopal University (2023 - 2025) <br>
-<strong>BSc</strong> – Government First Grade College (2020 - 2023)
-</p>
+🔗 <a href="https://cira-sari.vercel.app">Live</a>  
+🔗 <a href="https://github.com/ranj1thaa/CiraSari">GitHub</a>
 
-<hr>
+---
 
-<h2>⭐ Strengths</h2>
-<ul>
-<li>Full Stack Development</li>
-<li>Secure Authentication Systems</li>
-<li>Analytics Dashboard Development</li>
-<li>DevOps & Deployment</li>
-<li>Modern UI/UX Design</li>
-</ul>
+## 🎓 Education
 
-<hr>
+🎓 MCA – VIT Bhopal University (2023 - 2025)  
+🎓 BSc – Government First Grade College (2020 - 2023)
 
-<h2>📫 Connect With Me</h2>
-<p>
-<a href="#">GitHub</a> |
-<a href="#">LinkedIn</a> |
-<a href="#">Portfolio</a>
+---
+
+## ⭐ Strengths
+
+✔ Full Stack Development  
+✔ Secure Authentication Systems  
+✔ Analytics Dashboard Development  
+✔ DevOps & Deployment  
+✔ Modern UI/UX Design  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/ranj1thaa">GitHub</a> |
+<a href="https://www.linkedin.com/in/ranjitha-r-b76211306/">LinkedIn</a> |
+<a href="https://ranjithaportfolio.vercel.app">Portfolio</a>
 </p>
